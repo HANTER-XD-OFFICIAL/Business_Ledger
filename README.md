@@ -1,5 +1,19 @@
 # 📱 Business Ledger — Professional Accounting & Inventory Management App
 
+<div align="center">
+
+[![Download Android APK](https://img.shields.io/badge/Download-Android%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
+[![Live Web Preview](https://img.shields.io/badge/Live%20App-Preview%20Online-0088cc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
+
+<br/>
+
+👉 **[📥 Click Here to Download & Test the Application](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)** 👈
+
+</div>
+
+---
+
 **Business Ledger** is an enterprise-grade, modern, and secure Android business management application built for retailers, wholesalers, merchants, and small-to-medium enterprises (SMEs). It streamlines daily bookkeeping, sales billing, customer & supplier due ledgers, stock inventory, and verified merchant networking in one unified, high-performance platform.
 
 ---
@@ -83,6 +97,12 @@
 ## 🚀 Continuous Integration & Automated APK Building (GitHub Actions)
 
 This repository comes pre-configured with fully automated GitHub Actions CI/CD workflows:
+
+<div align="center">
+
+[![Direct App Access](https://img.shields.io/badge/Direct_Download-Get_APK_Now-success?style=for-the-badge&logo=android)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
+
+</div>
 
 1. **Navigate to GitHub Repository:** Open the repository in your browser and click on the **Actions** tab.
 2. **Trigger Build:** Select the **Android CI Build** workflow and click **"Run workflow"** (or **"Re-run all jobs"**).
