@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Download Android APK](https://img.shields.io/badge/Download-Android%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)
-[![Live Web Preview](https://img.shields.io/badge/Live%20App-Preview%20Online-0088cc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)
+[![Live Web Preview](https://img.shields.io/badge/Live%20App-Preview%20Online-0088cc?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0](https://www.facebook.com/md.rasel.7.8.2.3.4))
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)
 
 <br/>
