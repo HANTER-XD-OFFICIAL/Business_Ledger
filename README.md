@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Download Android APK](https://img.shields.io/badge/Download-Android%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
-[![Live Web Preview](https://img.shields.io/badge/Live%20App-Preview%20Online-0088cc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
+[![Download Android APK](https://img.shields.io/badge/Download-Android%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)
+[![Live Web Preview](https://img.shields.io/badge/Live%20App-Preview%20Online-0088cc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)
 
 <br/>
 
-👉 **[📥 Click Here to Download & Test the Application](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)** 👈
+👉 **[📥 Click Here to Download & Test the Application](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)** 👈
 
 </div>
 
@@ -100,7 +100,7 @@ This repository comes pre-configured with fully automated GitHub Actions CI/CD w
 
 <div align="center">
 
-[![Direct App Access](https://img.shields.io/badge/Direct_Download-Get_APK_Now-success?style=for-the-badge&logo=android)](https://ais-pre-47hk23amnmqcqynd5wmppj-562526124447.asia-southeast1.run.app)
+[![Direct App Access](https://img.shields.io/badge/Direct_Download-Get_APK_Now-success?style=for-the-badge&logo=android)](https://github.com/HANTER-XD-OFFICIAL/Business_Ledger/releases/tag/Business_Ledger_V1.0)
 
 </div>
 
