@@ -1,0 +1,6 @@
+{
+  "name": "Business Ledger",
+  "description": "Complete Business & Accounting Ledger app for sales, purchases, customer dues, stock management, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
